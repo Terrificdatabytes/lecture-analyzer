@@ -1,0 +1,4 @@
+{
+  "name": "Live Lecture Summarizer",
+  "description": "An application to stream video from a web-accessible camera feed, capture key frames from the lecture, and use Gemini to generate summaries for each frame and a final overall summary."
+}
